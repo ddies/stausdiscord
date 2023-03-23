@@ -12,4 +12,3 @@
 
 ----
 
-> Statuscord by SealedSaucer is licensed under Attribution 4.0 International 
